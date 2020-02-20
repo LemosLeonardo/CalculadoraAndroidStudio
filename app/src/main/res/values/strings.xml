@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txtValor1">Valor 1</string>
+    <string name="txtValor2">Valor 2</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="resultadoCalculo">0000</string>
+    <string name="txtBtnSomar">+</string>
+    <string name="txtBtnSubtrair">-</string>
+    <string name="txtBtnDividir">/</string>
+    <string name="txtBtnMultiplicar">*</string>
+    <string name="txtTituloManual">Modo de usar:</string>
+    <string name="txtManual">\n
+        1 - Insira os valores que deseja calcular. \n
+        2 - Selecione o tipo de operação que gostaria de realizar. \n
+        3 - Visualize o  resultado que aparecerá acima das caixas de texto.
+    </string>
+
+</resources>
